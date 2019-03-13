@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Litchman Demo</string>
+    <string name="home">Home</string>
+    <string name="inbox">Inbox</string>
+    <string name="payments">Payments</string>
+    <string name="dashboard">DashBoard</string>
+    <string name="company">Company Profile</string>
+    <string name="user">User Profile</string>
+    <string name="contact">Contact Us</string>
+    <string name="about">About Chamber</string>
+    <string name="login">Login</string>
+    <string name="language">Language</string>
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
+    <string name="happiness">Happiness</string>
+    <string name="okay">OKAY</string>
+    <string name="events">Events</string>
+    <string name="latest_news">Latest News</string>
+    <string name="current_time">current Time</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in facilisis felis, id euismod
+        dui. Sed porta risus vel pharetra commodo. Nulla fringilla, enim vitae congue tempus, ligula justo molestie
+        sapien, eu scelerisque nisl augue at dolor. Nullam fringilla turpis ut nunc viverra egestas. Nam blandit diam
+        ligula, ac congue turpis convallis hendrerit. Pellentesque habitant morbi tristique senectus et netus et
+    </string>
+    <string name="event_name">Event Name</string>
+    <string name="event_desc">Event Description</string>
+    <string name="menu">Menu</string>
+    <string name="news">News Title</string>
+    <string name="pictureTitle">Night Life In Litchman City</string>
+    <string name="launcherTitle">Litchman Demo</string>
+</resources>

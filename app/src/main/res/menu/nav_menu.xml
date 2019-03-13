@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:id="@+id/group1">
+
+        <item android:id="@+id/home_item_menu"
+              android:title="@string/home"
+              android:icon="@drawable/ic_home_black_24dp"
+        />
+
+    </group>
+
+    <group android:id="@+id/group2">
+
+        <item android:id="@+id/inbox_item_menu"
+              android:icon="@drawable/ic_inbox_black_24dp"
+              android:title="@string/inbox"/>
+
+    </group>
+
+    <group android:id="@+id/group3">
+
+        <item android:id="@+id/payments_item_menu"
+              android:icon="@drawable/ic_payment_black_24dp"
+              android:title="@string/payments"/>
+
+    </group>
+
+    <group android:id="@+id/group4">
+
+        <item android:id="@+id/dashboard_item_menu"
+              android:icon="@drawable/ic_dashboard_black_24dp"
+              android:title="@string/dashboard"/>
+
+    </group>
+
+
+    <group android:id="@+id/group5">
+
+        <item android:id="@+id/company_profile_item_menu"
+              android:icon="@drawable/ic_company_profile_black_24dp"
+              android:title="@string/company"/>
+
+    </group>
+
+    <group android:id="@+id/group6">
+
+        <item android:id="@+id/user_profile_item_menu"
+              android:icon="@drawable/ic_user_profile_24dp"
+              android:title="@string/user"/>
+
+    </group>
+
+    <group android:id="@+id/group7">
+
+        <item android:id="@+id/contact_us_item_menu"
+              android:icon="@drawable/ic_contact_black_24dp"
+              android:title="@string/contact"/>
+
+    </group>
+
+    <group android:id="@+id/group8">
+
+        <item android:id="@+id/about_chamber_item_menu"
+              android:icon="@drawable/ic_about_black_24dp"
+              android:title="@string/about"/>
+
+    </group>
+
+    <group android:id="@+id/group9"
+    >
+
+        <item android:id="@+id/login_item_menu"
+              android:icon="@drawable/ic_login_24dp"
+              android:title="@string/login"/>
+
+    </group>
+
+    <item
+            android:id="@+id/switch_item_menu"
+            android:title="@string/language"
+            app:actionLayout="@layout/layout_switch"
+    />
+
+
+</menu>
